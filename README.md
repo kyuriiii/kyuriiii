@@ -1,6 +1,5 @@
-### Hi I'm ✨ kyuri ✨ 👋
+### Hi I'm ✨ kyuri ✨
 
-### My Skills
 ### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuriiii&layout=compact)
 ### [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kyuriiii)](https://github.com/anuraghazra/github-readme-stats)
 <!--
