@@ -1,7 +1,7 @@
 ### Hi I'm ✨ kyuri ✨ 👋
 
 ### My Skills
-### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungSangHyeon&layout=compact)
+### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuriiii&layout=compact)
 <!--
 **kyuriiii/kyuriiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
