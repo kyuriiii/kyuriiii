@@ -1,6 +1,6 @@
 ### Hi I'm ✨ kyuri ✨
 
-### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuriiii&langs_count=10)
+### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuriiii&layout=compact&langs_count=10)
 ### [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kyuriiii)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kyuriiii/kyuriiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
